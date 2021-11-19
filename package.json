@@ -2,6 +2,10 @@
   "name": "chester",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+  "node": "15.x",
+  "npm": "8.x"
+ },
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
